@@ -5,4 +5,4 @@
 ### TO DO :
 
 - [x] Créer une application Angular avec l'architecture de base (celle créée par le CLI)
-- [ ] Dans app.component.html ajouter un paragraphe et dites nous bonjour !
+- [x] Dans app.component.html ajouter un paragraphe et dites nous bonjour !
